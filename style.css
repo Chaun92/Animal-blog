@@ -1,0 +1,64 @@
+img{
+    width: 300px;
+    height: auto;
+    border-style: groove;
+    border-color: black;
+  }
+  p {
+    font-style: italic;
+    padding: top;
+    padding-inline-end: 10%;
+    padding-left: 10%;
+  }
+  
+  h3 {
+    border-color: black;
+    padding-block: 10px;
+    
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fixed;
+    
+  }
+
+  div {
+    max-width: fixed;
+    width: 450px;
+    height: fixed;
+    position: center;
+    padding-top: 10% ;
+  }
+  
+  .myDiv{
+    
+    width: 400px;
+    border: solid black;
+    width: fixed;
+  }
+  
+  
+  
+  body{
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(10, 10, 10);
+    padding: 10px;
+    background-color: bisque;
+    border: solid black;
+    width: 450px;
+    height: 1000px;
+    padding-left: 45px;
+    width: fixed;
+    
+    
+  }
+
+  .card{
+    width: fixed;
+  }
+
+  
